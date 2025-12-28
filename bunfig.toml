@@ -1,2 +1,6 @@
 [install]
 exact = true
+
+[test]
+# Always enable code coverage
+coverage = true
